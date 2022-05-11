@@ -8,6 +8,11 @@
  
  - MTA Exam
    - I cleared MTA Exam in my first attempt - [Certificate](https://www.linkedin.com/posts/rajesh-kumar-singh-2933371aa_mta-introduction-to-programming-using-html-activity-6848102546028994560-tzkt?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+# My Experience
+- **Web Developer** at RP Hall Web Team.
+- Intern @XcitFoundatiions as a **Web Developer**.
+- Intern @Klass wisE as **Teacher**(Pyhton and C++).
  
  # Current project
  - Disease Identifier
