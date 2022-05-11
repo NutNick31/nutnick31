@@ -37,3 +37,6 @@
 ## Machine Learning
  - [ ] Tensor Flow
  - [ ] TensorFlow.js
+## Competitive Progamming
+ - [ ] Dynamic programming
+ - [ ] Graphs
