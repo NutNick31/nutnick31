@@ -17,6 +17,9 @@
  # Current project
  - Disease Identifier
  - VidCall
+
+ # Projects I have done
+ - [Smart Attendance System](https://github.com/NutNick31/Smart_Attendance_System.git)
  
  # My Completed Projects
  - Keeper App
