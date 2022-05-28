@@ -15,14 +15,12 @@
 - Intern @Klass wisE as **Teacher**(Pyhton and C++).
  
  # Current project
- - Disease Identifier
  - VidCall
 
- # Projects I have done
- - [Smart Attendance System](https://github.com/NutNick31/Smart_Attendance_System.git)
- 
  # My Completed Projects
+ - [Smart Attendance System](https://github.com/NutNick31/Smart_Attendance_System.git)
  - Keeper App
+ 
  
  # My Deployments
  - Raj's Portfolio [Website](https://luxury-dolphin-25de30.netlify.app)
