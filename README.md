@@ -20,10 +20,12 @@
  # My Completed Projects
  - [Smart Attendance System](https://github.com/NutNick31/Smart_Attendance_System.git)
  - Keeper App
+ - [Task Manager App](https://rajesh-task-manager-1.herokuapp.com/)
  
  
  # My Deployments
  - Raj's Portfolio [Website](https://luxury-dolphin-25de30.netlify.app)
+ - [Task Manager App](https://rajesh-task-manager-1.herokuapp.com/)
 
 # My Goals
 ## Developemt
