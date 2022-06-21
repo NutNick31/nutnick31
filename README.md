@@ -49,4 +49,4 @@
  - [ ] TensorFlow.js
 ## Competitive Progamming
  - [ ] Dynamic programming
- - [ ] Graphs
+ - [x] Graphs
