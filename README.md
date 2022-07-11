@@ -35,6 +35,7 @@
 - [ ] Hackathons
 ## Machine Learning
 - [ ] Kaggle Contests
+- [ ] Algorithmic Trading
 ## Competitive Programming
 - [ ] ACM ICPC
 - [ ] Google Kickstart
@@ -48,5 +49,5 @@
  - [ ] Tensor Flow
  - [ ] TensorFlow.js
 ## Competitive Progamming
- - [ ] Dynamic programming
+ - [x] Dynamic programming
  - [x] Graphs
