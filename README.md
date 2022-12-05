@@ -32,7 +32,7 @@
 # My Goals
 ## Developemt
 - [ ] GSoC 2023 as a contributor
-- [ ] Hackathons
+- [x] Hackathons
 ## Machine Learning
 - [ ] Kaggle Contests
 - [ ] Algorithmic Trading
