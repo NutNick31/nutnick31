@@ -15,8 +15,8 @@
 - Intern @Klass wisE as **Teacher**(Pyhton and C++).
  
  # Current project
- - VidCall
- - KGPChats
+ - VidCall - Done
+ - KGPChats - Done
  - **RefPad**
 
  # My Completed Projects
