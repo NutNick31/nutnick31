@@ -8,11 +8,14 @@
  
  - MTA Exam
    - I cleared MTA Exam in my first attempt - [Certificate](https://www.linkedin.com/posts/rajesh-kumar-singh-2933371aa_mta-introduction-to-programming-using-html-activity-6848102546028994560-tzkt?utm_source=linkedin_share&utm_medium=member_desktop_web)
+  - Achieved 4 contributions during Hacktober Fest.
 
 # My Experience
-- **Web Developer** at RP Hall Web Team.
-- Intern @XcitFoundatiions as a **Web Developer**.
-- Intern @Klass wisE as **Teacher**(Pyhton and C++).
+- **Frontend Developer** at Density Exchange
+- **Web Head** at Technology Mining Engineering Society
+- **Web Developer** at RP Hall Web Team
+- Intern @XcitFoundatiions as a **Web Developer**
+- Intern @Klass wisE as **Teacher**(Pyhton and C++)
  
  # Current project
  - VidCall - Done
@@ -33,14 +36,6 @@
 ## Developemt
 - [ ] GSoC 2023 as a contributor
 - [x] Hackathons
-## Machine Learning
-- [ ] Kaggle Contests
-- [ ] Algorithmic Trading
-## Competitive Programming
-- [ ] ACM ICPC
-- [ ] Google Kickstart
-- [ ] Google Codejam
-- [ ] Facebook Hackercup
 
 # Study List
 ## Development
