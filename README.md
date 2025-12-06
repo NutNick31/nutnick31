@@ -1,9 +1,5 @@
 # Hi there 👋 I'm <YOUR_NAME>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajesh-kumar-singh-2933371aa/))
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://x.com/CuriousKernel)
-[![Top Langs](https://img.shields.io/github/languages/top/your-username/your-repo?style=flat)](https://github.com/NutNick31)
-
 ---
 
 ## 🚀 About Me
