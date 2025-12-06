@@ -25,12 +25,12 @@ I enjoy solving problems with clean algorithms, shipping production-ready system
 **Tools:** Git · VSCode · Postman
 
 ---
-
+<!--
 ## 📈 GitHub Stats & Activity
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NutNick31&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NutNick31&layout=compact&theme=default)
-
+-->
 ---
 
 ## 🤝 Want to collaborate?
