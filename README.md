@@ -1,54 +1,45 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rajesh!+👋;Software+Engineer+%40+UIDAI;Backend+Developer+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
+# Hi there 👋 I'm <YOUR_NAME>
 
-# My Achievements
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajesh-kumar-singh-2933371aa/))
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://x.com/CuriousKernel)
+[![Top Langs](https://img.shields.io/github/languages/top/your-username/your-repo?style=flat)](https://github.com/NutNick31)
 
-- Interhall Opensoft 2021-2022 IIT, Kharagpur : **SILVER(2nd Prize)**
+---
 
-  - About OpenSoft - [Open](https://wiki.metakgp.org/w/Open_Soft)
+## 🚀 About Me
+I’m `Rajesh Kumar Singh` — a software developer who loves building elegant, maintainable code and beautiful developer experiences.  
+I enjoy solving problems with clean algorithms, shipping production-ready systems, and learning something new every week.
 
-  - I was a full stack web developer there. In this project we used React for the frontend and django for the backend.
- 
- - MTA Exam
-   - I cleared MTA Exam in my first attempt - [Certificate](https://www.linkedin.com/posts/rajesh-kumar-singh-2933371aa_mta-introduction-to-programming-using-html-activity-6848102546028994560-tzkt?utm_source=linkedin_share&utm_medium=member_desktop_web)
-  - Achieved 4 contributions during Hacktober Fest.
+- 🌱 I’m learning: Modern C++ and Golang features, systems design, and advanced ML/deployment workflows.
+- 💬 Ask me about: C++, backend systems and DevOps.
+- 📫 How to reach me: `rajesh01ksingh@gmail.com`
 
-# My Experience
-- **Frontend Developer** at Density Exchange
-- **Web Head** at Technology Mining Engineering Society
-- **Web Developer** at RP Hall Web Team
-- Intern @XcitFoundatiions as a **Web Developer**
-- Intern @Klass wisE as **Teacher**(Pyhton and C++)
- 
- # Current project
- - VidCall - Done
- - KGPChats - Done
- - **RefPad**
+---
 
- # My Completed Projects
- - My Portfolio [Webiste](https://luxury-dolphin-25de30.netlify.app)
- - [Smart Attendance System](https://github.com/NutNick31/Smart_Attendance_System.git)
- - [Task Manager App](https://rajesh-task-manager-1.herokuapp.com/)
- 
- 
- # My Deployments
- - Raj's Portfolio [Website](https://luxury-dolphin-25de30.netlify.app)
- - [Task Manager App](https://rajesh-task-manager-1.herokuapp.com/)
+## 💼 Tech Stack
 
-# My Goals
-## Developemt
-- [ ] GSoC 2023 as a contributor
-- [x] Hackathons
+**Languages:** C++ · JavaScript/TypeScript · Python · SQL · Golang
+**Frontend:** React · React Native · Tailwind CSS  
+**Backend:** Node.js · Express · Go · Gin · PostgreSQL · Redis
+**DevOps:** Docker · GitHub Actions · AWS (S3, Lambda, EC2)  
+**Tools:** Git · VSCode · Postman
 
-# Study List
-## Development
- - [ ] Web 3.0
-## Machine Learning
- - [ ] Tensor Flow
- - [ ] TensorFlow.js
-## Competitive Progamming
- - [x] Dynamic programming
- - [x] Graphs
+---
 
+## 📈 GitHub Stats & Activity
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NutNick31&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NutNick31&layout=compact&theme=default)
+
+---
+
+## 🤝 Want to collaborate?
+I’m open to interesting projects, mentoring, and short freelance jobs.  
+**Email:** rajesh01ksingh@gmail.com · **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-singh-2933371aa/)
+
+---
+<!--
+## 📚 Blog & Talks
+- [Blog Post — How I optimized X](https://your-blog.example/post)
+- [Talk — Building reliable systems](https://your-talk.example)
+-->
