@@ -6,7 +6,7 @@
 I’m `Rajesh Kumar Singh` — a software developer who loves building elegant, maintainable code and beautiful developer experiences.  
 I enjoy solving problems with clean algorithms, shipping production-ready systems, and learning something new every week.
 
-- 🌱 I’m learning: Modern C++ and Golang features, systems design, and advanced ML/deployment workflows.
+- 🌱 I’m learning: Modern C++ and Golang features and systems design.
 - 💬 Ask me about: C++, backend systems and DevOps.
 - 📫 How to reach me: `rajesh01ksingh@gmail.com`
 
@@ -17,6 +17,7 @@ I enjoy solving problems with clean algorithms, shipping production-ready system
 **Languages:** C++ · JavaScript/TypeScript · Python · SQL · Golang
 **Frontend:** React · React Native · Tailwind CSS  
 **Backend:** Node.js · Express · Go · Gin · PostgreSQL · Redis
+
 **DevOps:** Docker · GitHub Actions · AWS (S3, Lambda, EC2)  
 **Tools:** Git · VSCode · Postman
 
