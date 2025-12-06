@@ -1,6 +1,6 @@
 # Hi there 👋 I'm <YOUR_NAME>
 
----
+<!-- --- -->
 
 ## 🚀 About Me
 I’m `Rajesh Kumar Singh` — a software developer who loves building elegant, maintainable code and beautiful developer experiences.  
@@ -26,8 +26,8 @@ I enjoy solving problems with clean algorithms, shipping production-ready system
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NutNick31&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NutNick31&layout=compact&theme=default)
--->
 ---
+-->
 
 ## 🤝 Want to collaborate?
 I’m open to interesting projects, mentoring, and short freelance jobs.  
