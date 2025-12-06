@@ -14,7 +14,7 @@ I enjoy solving problems with clean algorithms, shipping production-ready system
 
 ## 💼 Tech Stack
 
-**Languages:** C++ · JavaScript/TypeScript · Python · SQL · Golang
+**Languages:** C++ · JavaScript/TypeScript · Python · SQL · Golang  
 **Frontend:** React · React Native · Tailwind CSS  
 **Backend:** Node.js · Express · Go · Gin · PostgreSQL · Redis  
 **DevOps:** Docker · GitHub Actions · AWS (S3, Lambda, EC2)  
